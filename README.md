@@ -14,4 +14,4 @@
   start = 1900
   end = 2019
   day = 13
-  week = 5
+  weekday = 5
